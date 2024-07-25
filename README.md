@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
+![Header](https://raw.githubusercontent.com/your-username/your-repo/main/header.png)
+
 ## About Me
 
 I'm a [Your Role] with a passion for [Your Interests]. I love working on projects that involve [Technologies or Fields You Work In]. In my free time, you can find me [Your Hobbies or Interests].
@@ -13,6 +15,8 @@ I'm a [Your Role] with a passion for [Your Interests]. I love working on project
 - 📫 How to reach me: [Your Email or Social Media]
 - ⚡ Fun fact: [Interesting Fact About You]
 
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -23,15 +27,21 @@ I'm a [Your Role] with a passion for [Your Interests]. I love working on project
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
+![Tools](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
+
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/your-twitter)
 [![Website](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://your-website.com/)
+
+![Handshake](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ## 📝 Latest Blog Posts
 
@@ -40,6 +50,8 @@ I'm a [Your Role] with a passion for [Your Interests]. I love working on project
 - [Another Blog Post Title](https://your-blog-link.com)
 - [Yet Another Blog Post Title](https://your-blog-link.com)
 <!-- BLOG-POST-LIST:END -->
+
+![Footer](https://raw.githubusercontent.com/your-username/your-repo/main/footer.png)
 
 ---
 
