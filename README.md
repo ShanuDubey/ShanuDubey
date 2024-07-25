@@ -1,19 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shraddha Dubey 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-![Header](https://raw.githubusercontent.com/your-username/your-repo/main/header.png)
+![Header](https://www.canva.com/design/DAGL8ZqmL8g/ehwHYUKAMO1V4tU3NAyQWA/view?utm_content=DAGL8ZqmL8g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## About Me
 
-I'm a [Your Role] with a passion for [Your Interests]. I love working on projects that involve [Technologies or Fields You Work In]. In my free time, you can find me [Your Hobbies or Interests].
+I'm a Full Stack Developer with a passion for Web Development. I love working on projects that involve HTML, CSS, JS, MERN Stack, C, C++, Java. In my free time, you can find me Solving Complex Problems.
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Endeavors]
-- 👯 I’m looking to collaborate on [Types of Projects or Technologies]
-- 💬 Ask me about [Topics You Are Knowledgeable In]
-- 📫 How to reach me: [Your Email or Social Media]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🔭 I’m currently working on IPL Action
+- 🌱 I’m currently learning Full Stack Development
+- 👯 I’m looking to collaborate on MERN Stack
+- 💬 Ask me about Web Development
+- 📫 How to reach me: prabaldubey86@gmail.com
 
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
